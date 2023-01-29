@@ -1,2 +1,2 @@
-# currency_rate_correlation
-Comparing the working of Auto-Regressive model and Vector Auto Regressive model by using a dataset on exchange rates.
+# Finding Relation between Currency Exchange Rates over a Period of Time
+Comparing the performance of two well-known time series models, viz., Auto-Regressive (AR) and Vector Auto-Regressive (VAR) by illustrating the difference between these models by using a dataset on exchange rates, and analyzing which model among the 2 is able to fit the data in a better way and make more accurate predictions.
